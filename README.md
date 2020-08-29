@@ -1,0 +1,2 @@
+- 3 Minutes Competition in Graduate School: present your Master thesis in just under 3 minutes!
+- slides and the talk
