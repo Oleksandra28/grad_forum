@@ -1,2 +1,3 @@
-- slides for 3 Minutes Competition in Graduate School: present your Master thesis in just 3 minutes to general audience
+- slides for 3 Minutes Thesis Competition in Graduate School
+- presented my masters research on Domain Adaptation in just 3 minutes to general audience
 - got to the final round
