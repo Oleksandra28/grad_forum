@@ -1,2 +1,2 @@
 - slides for 3 Minutes Competition in Graduate School: present your Master thesis in just 3 minutes to general audience
-- got to the final round but did not win
+- got to the final round
